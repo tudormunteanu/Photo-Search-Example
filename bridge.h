@@ -6,9 +6,8 @@
 //  Copyright (c) 2015 Shaun Chua. All rights reserved.
 //
 
-#import "AFNetworking/AFNetworking.h"
-
 #ifndef Photo_Search_Example_bridge_h
+#import "AFNetworking/AFNetworking.h"
 #define Photo_Search_Example_bridge_h
 
 
