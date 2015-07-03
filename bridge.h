@@ -7,9 +7,9 @@
 //
 
 #ifndef Photo_Search_Example_bridge_h
-#import "AFNetworking/AFNetworking.h"
-#import "UIKit+AFNetworking/UIKit+AFNetworking.h"
 #define Photo_Search_Example_bridge_h
 
+#import "AFNetworking/AFNetworking.h"
+#import "UIKit+AFNetworking.h"
 
 #endif
